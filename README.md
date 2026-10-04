@@ -1,10 +1,17 @@
-# 🛰️ ARES-IV · Mars Surface Simulation
+# PROJECT 04: ARES-IV · Autonomous Mars Rover Digital Twin & Surface Operations Console
 
-An interactive 3D Mars Surface Simulation featuring an autonomous rover equipped with GOAP AI decision-making, scientific research modules, and a futuristic mission-control HUD. Built with Next.js 16, Three.js (WebGL), and TypeScript.
+[![Author](https://img.shields.io/badge/Author-ELONIKHIL-blue.svg)](https://github.com/batturamesh7771-sketch)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-36e06a)](https://github.com/batturamesh7771-sketch/PROJECT_04)
+[![Stack](https://img.shields.io/badge/Next.js-16%20%7C%20Three.js%20%7C%20TypeScript-black)](https://github.com/batturamesh7771-sketch/PROJECT_04)
 
-![ARES-IV Mars Surface Simulation](https://img.shields.io/badge/STATUS-OPERATIONAL-36e06a) ![Next.js 16](https://img.shields.io/badge/Next.js-16-black) ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+> **Lead Architect & Developer:** **ELONIKHIL**  
+> **Autonomous Systems & Aerospace Robotics Initiative**
+
+An interactive 3D Mars Surface Simulation and digital twin platform featuring an autonomous rover equipped with Goal-Oriented Action Planning (GOAP) AI decision-making, scientific research modules, and a futuristic mission-control HUD. Built with Next.js 16, Three.js (WebGL), and TypeScript.
 
 ---
+
 
 ## 📋 Table of Contents
 
@@ -203,3 +210,11 @@ This project is open source and available under the MIT License.
 ---
 
 **ARES-IV · Mission Control v1.0** — Built for exploring the Red Planet. 🪐
+
+
+---
+
+## 👨‍💻 Author & Attribution
+* **Lead Engineer:** **ELONIKHIL** (@batturamesh7771-sketch)
+* **Project Series:** PROJECT 04 of the Aerospace & Autonomous Systems Portfolio
+* **License:** MIT License
